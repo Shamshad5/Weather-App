@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shamshad5/Weather-App.git/static/css/main.5f9b1f69.css",
+    "main.js": "/Shamshad5/Weather-App.git/static/js/main.e4570fc9.js",
+    "index.html": "/Shamshad5/Weather-App.git/index.html",
+    "main.5f9b1f69.css.map": "/Shamshad5/Weather-App.git/static/css/main.5f9b1f69.css.map",
+    "main.e4570fc9.js.map": "/Shamshad5/Weather-App.git/static/js/main.e4570fc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f9b1f69.css",
+    "static/js/main.e4570fc9.js"
+  ]
+}
